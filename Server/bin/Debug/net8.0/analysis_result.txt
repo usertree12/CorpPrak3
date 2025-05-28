@@ -1,0 +1,2 @@
+Имя файла: file_System.Func`1[System.Guid].txt
+Строк: 7, Слов: 11, Символов: 62
